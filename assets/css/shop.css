@@ -1,0 +1,46 @@
+body{
+  background:  url('../img/greydegrade.jpeg') no-repeat;
+  background-size :cover;
+}
+.fa-home{
+  color:#fff;
+}
+
+.fa-shopping-basket{
+  color:#fff;
+}
+.fa-sign-in-alt{
+  color:#fff;
+}
+.fa-check-circle{
+  color:#fff;
+}
+#logo{
+  height: 45px;
+  width: 800px;
+}
+.carous{
+  width: 70%;
+  padding: 30px;
+}
+footer{
+  margin: 45%;
+}
+@media screen and (max-width: 480px){
+  #logo{
+    height: 65px;
+    width: 150px;
+  }
+  footer{
+    margin: 35%;
+  }
+}
+#titre{
+  font-family: 'Indie Flower';
+  text-align: center;
+}
+#sousTitre{
+  font-family: 'Indie Flower';
+  text-align: center;
+  font-size: 35px;
+}
